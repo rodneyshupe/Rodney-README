@@ -4,16 +4,18 @@ This is a new document and still a work in progress. It’s meant to be document
 
 I'm looking forward to getting to know you! This document is not intended to replace or override the relationship and mutual understanding we will build as we work together. Its intention is to give you an idea of how I think and how I work.
 
-## Who Am I
+## Who Am I tldr;
 
 Rodney Shupe (he/him)
 
 I am based in Vancouver, BC Canada and live in the downtown core.
 <img src="/img/banner_vancouver.jpg" alt="Vancouver" width="800px">
 
-At Home I am a husband and father. I love to cook and am a bit of a Science Fiction and Sports nut. I only write code for personal projects and tools to help me accomplish tasks and make my life easier or more fun.
+### At Home
+I am a husband and father. I love to cook and am a bit of a Science Fiction and Sports nut. I only write code for personal projects and tools to help me accomplish tasks and make my life easier or more fun.
 
-At Work I am a leader, and although I don't write much code any more I have led multi-national software development teams for over 20 years.
+### At Work
+I am a servent leader, and although I don't write much code any more I have led multi-national software development teams for over 20 years.
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/rodneyshupe/"><img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/LinkedIn.svg" alt="LinkedIn" width="30" height="30" /></a>&nbsp;&nbsp;
