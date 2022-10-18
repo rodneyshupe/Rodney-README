@@ -124,7 +124,7 @@ Here are some things I love. If you ever want to strike up casual conversation a
 
 * **Cooking and baking.** I love trying new recipes and new cooking techniques. I always want to hear about new recipes you've tried or want to try, or just chat about cooking and baking in general.  I have collected a bunch of recipes in a book ([Recipes from the Messy Chef](https://github.com/rodneyshupe/Cookbook)) that is built and hosted on guthub.  If you like cocktails I also have a book ([Libations](https://github.com/rodneyshupe/Libations)) on those too.
   
-<img src="/img/Cookbook.png" alt="Recipes from the Messy Chef" width="400px"><img src="/img/Libations.png" alt="Libations" width="400px">
+<img src="/img/Cookbook.png" alt="Recipes from the Messy Chef" width="400px"> <img src="/img/Libations.png" alt="Libations" width="400px">
 
 * **Electronics Projects** I enjoy working with various SOCs, specific Raspberry Pis and Arduino based systems.  I have built numerous projects using these types of systems.
 
