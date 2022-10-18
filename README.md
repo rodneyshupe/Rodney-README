@@ -6,12 +6,30 @@ I'm looking forward to getting to know you! This document is not intended to rep
 
 ## Who Am I
 
-I am based out of Vancouver, BC Canada and love to live in the downtown core.
+Rodney Shupe (he/him)
+
+I am based in Vancouver, BC Canada and live in the downtown core.
 <img src="/img/banner_vancouver.jpg" alt="Vancouver" width="800px">
 
 At Home I am a husband and father. I love to cook and am a bit of a Science Fiction and Sports nut. I only write code for personal projects and tools to help me accomplish tasks and make my life easier or more fun.
 
 At Work I am a leader, and although I don't write much code any more I have led multi-national software development teams for over 20 years.
+
+<p align='center'>
+<a href="https://www.linkedin.com/in/rodneyshupe/"><img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/LinkedIn.svg" alt="LinkedIn" width="30" height="30" /></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/RodneyShupe"><img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/Facebook.svg" alt="Rodney Shupe | Facebook" width="30" height="30" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/RodneyShupe"><img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/Twitter.svg" alt="Twitter" width="30" height="30" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/RodneyShupe"><img src="https://raw.githubusercontent.com/rodneyshupe/rodneyshupe/master/images/icons/Instagram.svg" alt="Rodney Shupe | Instagram" width="30" height="30" /></a>
+</p>
+<!--
+|  \|/ ____ \|/  88888b   d888b  88b  88 8 888888    88888b   888    88b  88 88  d888b  88
+|   @~/ ,. \~@   88   88 88   88 888b 88 P   88      88   88 88 88   888b 88 88 88   `  88
+|  /_( \__/ )_\  88   88 88   88 88`8b88     88      88888P 88   88  88`8b88 88 88      88
+|     \__U_/     88   88 88   88 88 `888     88      88    d8888888b 88 `888 88 88   ,  `"
+|                88888P   T888P  88  `88     88      88    88     8b 88  `88 88  T888P  88
+|
+| Since you are checking out the code you are the kind of person I like to work with.
+-->
 
 ## My Availability
 
